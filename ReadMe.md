@@ -21,4 +21,5 @@ git checkout <HASH OR HEAD~>   //restoes file to <HASH OR HEAD~>
 
 git remote add https://github.com/technapse/testing.git
 git push origin main
+git remote -v
 
