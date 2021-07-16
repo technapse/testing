@@ -10,6 +10,6 @@ git clone
 git status
 git add <file name> // add file to staging area
 git commit -m "Commit message" //commit the file to repository
-
+git log //shows the log of all the commits in reverse chronological order
 
 
