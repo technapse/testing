@@ -17,4 +17,8 @@ git diff --staged //runs a diff between the staging area and last known git stat
 git diff HEAD~<Number> //compare HED with commit <number> ago
 git diff <Hash>
 
+git checkout <HASH OR HEAD~>   //restoes file to <HASH OR HEAD~>
+
+git remote add https://github.com/technapse/testing.git
+git push origin main
 
